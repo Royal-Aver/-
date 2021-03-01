@@ -1,0 +1,20 @@
+.individual {
+	color: #3B3C3D;
+}
+.individual__inner {
+	background-image: url(../images/indiv-bg.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	padding: 158px 0 125px;
+}
+.individual__title {
+	font-size: 24px;
+	line-height: 29px;
+	margin-bottom: 29px;
+}
+.individual__text {
+	font-size: 16px;
+	line-height: 19px;
+	max-width: 420px;
+	margin-bottom: 20px;
+}
